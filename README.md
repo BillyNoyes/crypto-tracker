@@ -31,7 +31,7 @@ Tool for seeing the latest price changes for different crypto currencies.
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/BillyNoyes/covid-19-test-and-trace/compare/" target="_blank">`https://github.com/BillyNoyes/covid-19-test-and-trace/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/BillyNoyes/crypto-tracker/compare/" target="_blank">`https://github.com/BillyNoyes/crypto-tracker/compare/`</a>.
 
 ---
 
