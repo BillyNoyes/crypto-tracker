@@ -23,7 +23,7 @@ Tool for seeing the latest price changes for different crypto currencies.
   - 🍴 Fork this repo!
 
 - **Option 2**
-  - 👯 Clone this repo to your local machine using `https://github.com/BillyNoyes/covid-19-test-and-trace.git`
+  - 👯 Clone this repo to your local machine using `https://github.com/BillyNoyes/crypto-tracker.git`
 
 ### Step 2
 
